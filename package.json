@@ -1,0 +1,19 @@
+{
+	"name": "theme-iceberg",
+	"displayName": "Iceberg",
+	"description": "",
+	"categories": [ "Themes" ],
+	"version": "0.2.0",
+	"publisher": "NoIV",
+	"engines": { "vscode": "*" },
+	"contributes": {
+		"themes": [
+			{
+				"id": "Iceberg",
+				"label": "Iceberg",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Iceberg.json"
+			}
+		]
+	}
+}
